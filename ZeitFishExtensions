@@ -1,0 +1,11 @@
+Wearables Project URLs
+  Sound Activations for Light
+    Pattern: LED cap - sound activated - https://blog.adafruit.com/2016/08/24/sound-sensitive-led-baseball-cap-wearablewednesday/
+    Components
+      AdaFruit Gemma microcontroller
+        https://www.adafruit.com/products/1222
+      Electret Microphone
+        https://www.adafruit.com/product/1063
+      LEDs
+        Stock from ZeitFish (12v)
+        
