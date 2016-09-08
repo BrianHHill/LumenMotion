@@ -2,7 +2,7 @@ Wearables Project URLs
   Following Extension patterns are part of scope for ZeitFish project, noting ZeitFish is visible at http://store.quietrush.com.au/cargobikes.html
   1. Sound Activations for Light
     Concept: Activate dangling lure with light based on audio signal in.
-    Pattern: LED cap - sound activated - https://blog.adafruit.com/2016/08/24/sound-sensitive-led-baseball-cap-wearablewednesday/
+    Reference Pattern: LED cap - sound activated - https://blog.adafruit.com/2016/08/24/sound-sensitive-led-baseball-cap-wearablewednesday/
     Components
       AdaFruit Gemma microcontroller
         https://www.adafruit.com/products/1222
@@ -12,5 +12,16 @@ Wearables Project URLs
         Stock from ZeitFish (12v)
       Power
         TBC - needs eitehr separate or inline switchable with main 12v supply
+  
+  Feature: "Swimming in an Ocean of Connectivity"
   2. Bluetooth Signal Detection + Response
     Concept: Detect and respond to adjacent Bluetooth signals as a visible 'bluetooth-pulse'
+    Reference Pattern:
+    Components
+      
+  3. WiFi Signal Detection + Response
+    Concept: Detect and respond to adjacent WiFi signals as a visible 'wifi-pulse', with higher intensity lighting or pulsing frequency
+    reflecting higher signal strenth and vice versa
+    Reference Pattern:
+    Components
+      
