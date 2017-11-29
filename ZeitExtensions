@@ -1,5 +1,5 @@
 Wearables Project URLs
-  Following Extension patterns are part of scope for ZeitFish project, noting ZeitFish is visible at 
+  Following Extension patterns are part of scope for ZeitFish + Zeitprawn projects, noting both are visible at 
   http://store.quietrush.com.au/cargobikes.html
   
   1. Sound Activations for Light
@@ -16,6 +16,7 @@ Wearables Project URLs
         TBC - needs either separate or inline switchable with main 12v supply
   
   Feature: "Swimming in an Ocean of Connectivity"
+  
   2. Bluetooth Signal Detection + Response
     Concept: Detect and respond to adjacent Bluetooth signals as a visible 'bluetooth-pulse'
     Reference Pattern:
@@ -27,3 +28,7 @@ Wearables Project URLs
     Reference Pattern:
     Components
       
+  4. Motion Activation
+  Concept: Detect 3d motion and generate illumination response proportionate to amplitude. High deceleration/acceleration = higher luminosity
+  Components: 
+  Thinxtra DevKit - https://www.thinxtra.com/xkit/
